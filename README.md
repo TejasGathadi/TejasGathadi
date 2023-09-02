@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasgathadi&show_icons=true&locale=en" alt="tejasgathadi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasgathadi&" alt="tejasgathadi" /></p>
+
