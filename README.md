@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Express JS, DSA with JAVA**
 
-- 💬 Ask me about **React JS, MERN Stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **tejasgatahdi@gmail.com**
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasgathadi&show_icons=true&locale=en&layout=compact" alt="tejasgathadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasgathadi&show_icons=true&locale=en" alt="tejasgathadi" /></p>
+
 
 
