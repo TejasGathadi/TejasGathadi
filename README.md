@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Real-Estate Project**
 
-- 🌱 I’m currently learning **React JS, Express JS, DSA with JAVA**
+- 🌱 I’m currently learning **Spring Boot, Microservices, DSA with JAVA, Docker**
 
 - 💬 Ask me about **MERN Stack, Java Full Stack**
 
