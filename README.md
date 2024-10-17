@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ParkZE Project**
+- 🔭 I’m currently working on **Real-Estate Project**
 
 - 🌱 I’m currently learning **React JS, Express JS, DSA with JAVA**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack, Java Full Stack**
 
 - 📫 How to reach me **tejasgatahdi@gmail.com**
 
